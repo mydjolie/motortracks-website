@@ -8,6 +8,7 @@ import {
   Box,
   Flex,
 } from "@chakra-ui/react";
+import "../src/app/globals.css";
 
 export default function Home() {
   return (

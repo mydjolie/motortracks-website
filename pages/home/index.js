@@ -1,7 +1,7 @@
 import React from "react";
 
 const HomeSecondary = () => {
-  return <div>HomeSecondary</div>;
+  return <div className="bg-black">HomeSecondary</div>;
 };
 
 export default HomeSecondary;
